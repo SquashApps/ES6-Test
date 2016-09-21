@@ -1,0 +1,9 @@
+{
+  "generator-gulp-es6-webapp": {
+    "answers": {
+      "projectName": "ES6",
+      "projectDescription": "ES6 test project",
+      "githubUser": "Preethi Sagana"
+    }
+  }
+}
